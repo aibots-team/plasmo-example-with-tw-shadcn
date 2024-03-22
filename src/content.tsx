@@ -1,8 +1,6 @@
 import cssText from "data-text:~style.css"
-import { C } from "nextra/dist/types-fa5ec8b0"
 import type { PlasmoCSConfig } from "plasmo"
 import React from "react"
-import { createRoot } from "react-dom/client"
 
 import { Button } from "~lib/components/ui/button"
 import {
